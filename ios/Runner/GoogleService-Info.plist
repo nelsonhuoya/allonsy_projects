@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>221711279483-o6ad9a2sav7ri45r21eq8ahqqcvqsmp3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.221711279483-o6ad9a2sav7ri45r21eq8ahqqcvqsmp3</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>221711279483-14msmmohit03kkpouppdm6rn2l1l0skh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCP2d7hWSpmMkqJ3IS_sdD__JawvM6IWkk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>221711279483</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.allonsyfoodApp</string>
+	<key>PROJECT_ID</key>
+	<string>allons-y-76224</string>
+	<key>STORAGE_BUCKET</key>
+	<string>allons-y-76224.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:221711279483:ios:0e130db10c1744bf6309de</string>
+	<key>DATABASE_URL</key>
+	<string>https://allons-y-76224-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

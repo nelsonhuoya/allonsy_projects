@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "221711279483",
+    "firebase_url": "https://allons-y-76224-default-rtdb.firebaseio.com",
+    "project_id": "allons-y-76224",
+    "storage_bucket": "allons-y-76224.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221711279483:android:869a407a6f8a4bb66309de",
+        "android_client_info": {
+          "package_name": "com.example.allonsyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221711279483-14msmmohit03kkpouppdm6rn2l1l0skh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.allonsyapp",
+            "certificate_hash": "5b44425e50c8381b8d8474a5c7b04d7a86130904"
+          }
+        },
+        {
+          "client_id": "221711279483-6oj25lbcuuh82ce77oi2doi952rgrg9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAclei3y5_BiixYjAJbuGXxNvpuqF4KKd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221711279483-6oj25lbcuuh82ce77oi2doi952rgrg9g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "221711279483-036vlpgmcjmjcpma5va5h2oasncpvf73.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.allonsyapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
